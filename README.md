@@ -16,7 +16,7 @@ I'm **Jeryann**, an enthusiastic coder with a passion for crafting **games** and
 - **Programming**: Writing clean, efficient code to solve real-world problems.
 
 ## 🚀 Projects
-- **Ping-Pong-Game**: A fun and challenging 2D ping-pong game built with Pygame. [Check it out!](#https://github.com/JAW-05/Ping-Pong-Game)
+- **[Ping-Pong-Game](https://github.com/JAW-05/Ping-Pong-Game)**: A fun and challenging 2D ping-pong game built with Pygame.
 
 ## 📫 Let's Connect!
 I’m always excited to collaborate on interesting projects or discuss new ideas. Feel free to drop me a message or explore my work!
