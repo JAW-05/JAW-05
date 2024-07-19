@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to my GitHub!
 
-<!--
-**JAW-05/JAW-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+def about_me():
+    name = "Jeryann"
+    skills = ["Python", "Pygame", "Machine Learning", "Data Analysis", "Deep Learning"]
+    interests = ["Game Development", "Artificial Intelligence", "Programming"]
+    projects = ["Ping-Pong-Game"]
 
-Here are some ideas to get you started:
+    print(f"Hi, I'm {name}!")
+    print("Skills:", ", ".join(skills))
+    print("Interests:", ", ".join(interests))
+    print("Check out my projects:", ", ".join(projects))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+about_me()
